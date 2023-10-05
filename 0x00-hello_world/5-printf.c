@@ -1,10 +1,10 @@
-#include<stdio.h>
-
-/*
- * Description: A C program that prints with printf function
- * Return: Always 0 (Success)
+#include <stdio.h>
+/**
+*main - Main function
+*
+*
+*Return: return 0 everytime
 */
-
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
